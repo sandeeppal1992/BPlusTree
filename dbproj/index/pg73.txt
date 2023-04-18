@@ -1,0 +1,1 @@
+["L", "pg75.txt", "pg77.txt", "pg67.txt", ["p10", ["page02.txt.0", "page21.txt.1", "page31.txt.1", "page34.txt.1", "page40.txt.0"], "p11", ["page27.txt.1", "page39.txt.0", "page47.txt.1", "page50.txt.1"], "p12", ["page11.txt.0", "page23.txt.0", "page26.txt.0", "page35.txt.1", "page42.txt.1", "page45.txt.1", "page49.txt.0", "page52.txt.1"]]]
